@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Math
+|  |
+| ------- |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/2520-count-the-digits-that-divide-a-number) |
 <!---LeetCode Topics End-->
