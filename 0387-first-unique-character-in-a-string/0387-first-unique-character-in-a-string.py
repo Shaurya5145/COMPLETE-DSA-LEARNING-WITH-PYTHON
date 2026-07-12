@@ -8,16 +8,8 @@ class Solution:
             else:
                 dict1[i] = 1
 
-        charcter1 = None
-
-        print(dict1)
-
-        for (key,value) in dict1.items():
-            if value==1:
-                character1 = key
-                break
-
-        if 1 in list(dict1.values()):
-            return s.find(character1)
+        for (index,char) in enumerate(s):
+            if dict1[char] == 1:
+                return index
+        
         return -1
-
