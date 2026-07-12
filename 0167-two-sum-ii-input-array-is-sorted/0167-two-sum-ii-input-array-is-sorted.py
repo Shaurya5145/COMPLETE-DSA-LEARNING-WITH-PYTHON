@@ -4,15 +4,13 @@ class Solution:
 
         end = len(numbers)-1
 
-        sum = numbers[start]+numbers[end]
+        while start<end:
 
-        while sum!=target:
+            current_sum = numbers[start]+numbers[end]
 
-            sum = numbers[start]+numbers[end]
-
-            if sum<target:
+            if current_sum<target:
                 start+=1
-            elif sum>target:
+            elif current_sum>target:
                 end-=1
 
             else:
