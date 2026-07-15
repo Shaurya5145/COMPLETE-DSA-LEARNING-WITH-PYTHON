@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -144,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
