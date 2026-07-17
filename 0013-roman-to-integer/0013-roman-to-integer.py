@@ -1,0 +1,24 @@
+class Solution:
+    def romanToInt(self, s: str) -> int:
+        dict1 = {
+            "I" : 1,
+            "V" : 5,
+            "X" : 10,
+            "L" : 50,
+            "C" : 100,
+            "D" : 500,
+            "M" : 1000
+        }
+
+        value = 0
+
+        for i in range(len(s)):
+
+            if i < len(s)-1 and dict1[s[i]] < dict1[s[i+1]]:
+                value -= dict1[s[i]]
+                
+            else:
+                value += dict1[s[i]]
+
+        return value
+        
