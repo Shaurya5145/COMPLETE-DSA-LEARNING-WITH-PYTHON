@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/0349-intersection-of-two-arrays) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/0326-power-of-three) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/0058-length-of-last-word) |
