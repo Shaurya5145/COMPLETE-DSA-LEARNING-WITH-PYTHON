@@ -1,32 +1,42 @@
 class Solution:
-    def sortArray(self, nums: List[int]) -> List[int]:
+    def mergeSort(self,arr):
 
-        def merge_sort(arr):
-            if len(arr) <= 1:
-                return arr
+        if len(arr)>1:
+            mid = len(arr)//2
+            left_half = arr[:mid]
+            right_half = arr[mid:]
 
-            mid = len(arr) // 2
+            self.mergeSort(left_half)
+            self.mergeSort(right_half)
 
-            left = merge_sort(arr[:mid])
-            right = merge_sort(arr[mid:])
+            i = 0
+            j = 0
+            k = 0
 
-            return merge(left, right)
+            while i<len(left_half) and j<len(right_half):
+                if left_half[i]<right_half[j]:
+                    arr[k] = left_half[i]
+                    i+=1
 
-        def merge(left, right):
-            result = []
-            i = j = 0
-
-            while i < len(left) and j < len(right):
-                if left[i] <= right[j]:
-                    result.append(left[i])
-                    i += 1
                 else:
-                    result.append(right[j])
-                    j += 1
+                    arr[k] = right_half[j]
+                    j+=1
 
-            result.extend(left[i:])
-            result.extend(right[j:])
+                k+=1
 
-            return result
+            while i<len(left_half):
+                arr[k] = left_half[i]
+                i+=1
+                k+=1
 
-        return merge_sort(nums)
+            while j<len(right_half):
+                arr[k] = right_half[j]
+                j+=1
+                k+=1
+        
+    def sortArray(self, nums: List[int]) -> List[int]:
+        self.mergeSort(nums)
+        return nums
+       
+
+            
