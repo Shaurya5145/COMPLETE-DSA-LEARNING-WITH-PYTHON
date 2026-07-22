@@ -1,4 +1,5 @@
 class Solution:
+
     def mergeSort(self,arr):
 
         if len(arr)>1:
@@ -33,10 +34,10 @@ class Solution:
                 arr[k] = right_half[j]
                 j+=1
                 k+=1
-        
+    
     def sortArray(self, nums: List[int]) -> List[int]:
-        self.mergeSort(nums)
-        return nums
-       
+        
+       self.mergeSort(nums)
+       return nums
 
             
