@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/0912-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
