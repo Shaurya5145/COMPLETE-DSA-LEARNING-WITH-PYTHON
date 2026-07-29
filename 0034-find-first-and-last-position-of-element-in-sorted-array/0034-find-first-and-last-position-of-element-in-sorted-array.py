@@ -45,8 +45,6 @@ class Solution:
         if lb==ub:
             return [-1,-1]
 
-        print(lb,ub)
-
         return [lb,ub-1]
 
         
