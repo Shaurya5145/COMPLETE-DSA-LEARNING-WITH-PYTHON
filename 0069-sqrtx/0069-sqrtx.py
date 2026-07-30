@@ -1,16 +1,22 @@
 class Solution:
     def mySqrt(self, x: int) -> int:
         
+        l = 0
+        r = x
         ans = 0
 
-        if x==0 or x==1:
-            return x
+        
 
-        for i in range(1,x+1):
+        while l<=r:
+            mid = (l+r)//2
 
-            if i*i < x:
-                continue
-            elif i*i>x:
-                return i-1
+            sq_mid = mid*mid
+
+            if sq_mid > x:
+                r = mid-1
+
             else:
-                return i
+                ans = mid
+                l = mid+1
+
+        return ans
