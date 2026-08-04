@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/1672-richest-customer-wealth) |
+| [3731-find-missing-elements](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3731-find-missing-elements](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3731-find-missing-elements](https://github.com/Shaurya5145/COMPLETE-DSA-LEARNING-WITH-PYTHON/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
